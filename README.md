@@ -58,16 +58,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
 
-<!------------------------- 프로필사진 및 노션이력서 링크---------------------------->
-
-
-<br/>
-<!------------------------- 뱃지 ---------------------------->
-<!------------------------- 테크 스킬 ---------------------------->
-
-<!------------------------- 프로젝트 홍보 ---------------------------->
-
 <br/>
 <br/>
-
+    
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CHAERYEON-LEE&&show_icons=true&theme=tokyonight)
