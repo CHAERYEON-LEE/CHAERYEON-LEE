@@ -1,6 +1,5 @@
 <!------------------------- header ---------------------------->
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CHAERYEON&fontSize=80&animation=twinkling&descAlignY=30)]([https://github.com/CHAERYEON-LEE])
-
 <!------------------------- introduce ---------------------------->
 <div align="center">
 <div>
@@ -14,12 +13,18 @@
 제 노션 이력서가 궁금하시다면 사진을 클릭 해주세요!
 <span>
 </div>
-
 <br/>
 <br/>
 
 <!------------------------- badge ---------------------------->
 <div>
+<!------------------------- Introduce ---------------------------->
+<h3>👩‍💻 Introduce 👩‍💻</h3>
+사용자를 공감하고 사용자를 위한, 사용자를 생각하는 FE개발자입니다.<br/>   
+공동체 생활을 즐기고 커뮤니케이션을 적극적으로 하는 것을 좋아합니다.<br/>    
+다양한 사용자들이 사용하기 쉬운 접근성이 높은 서비스를 개발하는 것이 목표입니다.  
+<br/>
+<br/>
 <!------------------------- stack ---------------------------->
 <h3>✨ Front-end Stack ✨</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
