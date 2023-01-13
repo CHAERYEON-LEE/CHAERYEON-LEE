@@ -10,7 +10,7 @@
 <a href="https://wistful-apparel-ecb.notion.site/FE-Developer-fbeba8f3017642a9b219c0e08bb2502e"><img src="https://user-images.githubusercontent.com/89028068/212223812-9e683f18-9505-4235-b762-672bce5e3b2f.png" width="300px" height="300px"></a>
 
 <span>
-제 노션 이력서가 궁금하시다면 사진을 클릭 해주세요!
+제 노션 이력서가 궁금하시다면 사진을 클릭☝ 해주세요!
 <span>
 </div>
 <br/>
