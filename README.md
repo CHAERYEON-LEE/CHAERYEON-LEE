@@ -1,10 +1,9 @@
-<!------------------------- 헤더 ---------------------------->
+<!------------------------- header ---------------------------->
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CHAERYEON&fontSize=80&animation=twinkling&descAlignY=30)]([https://github.com/CHAERYEON-LEE])
 
-<table>
-<th>
+<!------------------------- introduce ---------------------------->
 <div align="center">
-<div align="left">
+<div>
 <h3>안녕하세요👋 사용자를 생각하는 FE-Developer 이채련입니다</h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHAERYEON-LEE&count_bg=%23FECFF6&title_bg=%23F04E73&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -15,9 +14,13 @@
 제 노션 이력서가 궁금하시다면 사진을 클릭 해주세요!
 <span>
 </div>
-</th>
-<th>
-<div align="left">
+
+<br/>
+<br/>
+
+<!------------------------- badge ---------------------------->
+<div>
+<!------------------------- stack ---------------------------->
 <h3>✨ Front-end Stack ✨</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -32,7 +35,7 @@
 <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=Framer&logoColor=white"/>
 <br/>
 <br/>
-<!------------------------- 툴 ---------------------------->
+<!------------------------- tool ---------------------------->
 <h3>🛠 Tools 🛠</h3>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white"/>
@@ -49,8 +52,6 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
-</th>
-</table>
 
 <!------------------------- 프로필사진 및 노션이력서 링크---------------------------->
 
