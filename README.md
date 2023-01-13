@@ -59,6 +59,5 @@
 </div>
 
 <br/>
-<br/>
     
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CHAERYEON-LEE&&show_icons=true&theme=tokyonight)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=80&animation=twinkling&descAlignY=30)]([https://github.com/CHAERYEON-LEE])
