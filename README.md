@@ -4,6 +4,8 @@
 <!------------------------- 프로필사진 및 노션이력서 링크---------------------------->
 <div align="center">
 <h3>안녕하세요👋 사용자를 생각하는 FE-Developer 이채련입니다</h3>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHAERYEON-LEE&count_bg=%23FECFF6&title_bg=%23F04E73&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div>
 <img src="https://user-images.githubusercontent.com/89028068/212223812-9e683f18-9505-4235-b762-672bce5e3b2f.png" width="300px" height="300px">
 </div>
@@ -23,7 +25,7 @@
 <!------------------------- 뱃지 ---------------------------->
 <div align="center">
     <!------------------------- 테크 스킬 ---------------------------->
-    <h3>✨ Tech Stack ✨</h3>
+    <h3>✨ Front-end Stack ✨</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -41,6 +43,7 @@
     <h3>🛠 Tools 🛠</h3>
     <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=Babel&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
         <br/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
