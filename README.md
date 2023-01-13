@@ -3,9 +3,9 @@
 <div align="center">
 <div>
 <h3>안녕하세요👋 사용자를 생각하는 FE-Developer 이채련입니다</h3>
-
+    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHAERYEON-LEE&count_bg=%23FECFF6&title_bg=%23F04E73&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+    
 <a href="https://wistful-apparel-ecb.notion.site/FE-Developer-fbeba8f3017642a9b219c0e08bb2502e"><img src="https://user-images.githubusercontent.com/89028068/212223812-9e683f18-9505-4235-b762-672bce5e3b2f.png" width="300px" height="300px"></a>
 
 <span>
