@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHAERYEON-LEE&show_icons=true&theme=radical)
 <div>
 <h3>안녕하세요👋 사용자를 생각하는 FE-Developer 이채련입니다</h3>
     
@@ -18,13 +19,11 @@
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=Babel&logoColor=white"/>
 <br/>
-<br/>
 
 ### 🛠 Back-end Stack 🛠
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
-<br/>
 <br/>
 
 ### 🎀 Design 🎀
@@ -32,7 +31,6 @@
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
     
-<br/>
 <br/>
 
 ### 🎁  PROJECTS
