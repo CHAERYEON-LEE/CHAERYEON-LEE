@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHAERYEON-LEE&show_icons=true&theme=radical)
 <div>
 <h3>안녕하세요👋 사용자를 생각하는 FE-Developer 이채련입니다</h3>
     
